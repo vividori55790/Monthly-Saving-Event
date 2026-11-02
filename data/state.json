@@ -1,0 +1,111 @@
+{
+ "events": [
+  {
+   "brand_group": "네이버페이",
+   "rate": 50.0,
+   "kind": "할인",
+   "title": "던킨 ‘DUBAI st TWOGETHER’ 캠페인...신제품 2종 네이버 페이 결제시 반값",
+   "cap": "",
+   "period": "",
+   "ends": "",
+   "tokens": [
+    "2종",
+    "dubai",
+    "st",
+    "twogether",
+    "던킨",
+    "반값",
+    "신제품",
+    "캠페인"
+   ],
+   "sources": [
+    {
+     "name": "푸드투데이",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53bms0cUdrNHVSMVVieVlTWHJ4aXVMdjZoWndsdWRHZUR3ZUQtQ1RYNFNUR0paUWEwMTRWZU13T3k4N3ZycEVobDd4NGVRS0lqdEVoMm9UYmMxMGhCcEZBcy1uX3Q3UQ?oc=5",
+     "direct": false
+    },
+    {
+     "name": "위키트리 on MSN",
+     "url": "https://www.msn.com/ko-kr/%EC%9D%8C%EC%8B%9D-%EB%B0%8F-%EC%9D%8C%EB%A3%8C/%EC%9D%BC%EB%B0%98/%EB%8D%98%ED%82%A8-%EB%91%90%EB%B0%94%EC%9D%B4-%EC%B4%88%EC%BD%9C%EB%A6%BF-%EB%8F%84%EB%84%9B-%EC%B6%9C%EC%8B%9C-2%EB%85%84-%EB%A7%8C%EC%97%90-300%EB%A7%8C-%EA%B0%9C-%EB%8F%8C%ED%8C%8C-%EC%8B%A0%EC%A0%9C%ED%92%88-2%EC%A2%85-%EC%B6%94%EA%B0%80/ar-AA2gypVW",
+     "direct": true
+    }
+   ],
+   "first_seen": "2026-11-03",
+   "sent_on": "",
+   "published": "2026-11-02T01:43:25+00:00",
+   "lookup_done": true
+  },
+  {
+   "brand_group": "이마트24",
+   "rate": 30.0,
+   "kind": "할인",
+   "title": "이마트24, 편의점서 틴트 고르고 옷도 산다…11월 한 달 30% 할인",
+   "cap": "",
+   "period": "11월 한 달",
+   "ends": "2026-11-30",
+   "tokens": [
+    "고르고",
+    "산다",
+    "옷도",
+    "이마트24",
+    "틴트",
+    "편의점서"
+   ],
+   "sources": [
+    {
+     "name": "키즈맘",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WanZpR1dZZldkWF9Hbmt1bFJOM1NRTk1EMXdyUWJybzM3Z3NlYTJYamNwbURvSUhrUVhZaFhzbVhlZ081VC1kLU13bU9WUC1iSC1LWGVaT2VyMHd2dXJsN1RQODdTUDM4?oc=5",
+     "direct": false
+    },
+    {
+     "name": "이코노미톡뉴스",
+     "url": "https://www.economytalk.kr/news/articleView.html?idxno=424980",
+     "direct": true
+    }
+   ],
+   "first_seen": "2026-11-03",
+   "sent_on": "",
+   "published": "2026-10-29T01:46:20+00:00",
+   "lookup_done": true
+  },
+  {
+   "brand_group": "CU",
+   "rate": 50.0,
+   "kind": "할인",
+   "title": "CU, 포켓몬·다마고치 입힌 빼빼로 상품 최대 50% 할인",
+   "cap": "",
+   "period": "",
+   "ends": "",
+   "tokens": [
+    "cu",
+    "다마고치",
+    "빼빼로",
+    "상품",
+    "입힌",
+    "포켓몬"
+   ],
+   "sources": [
+    {
+     "name": "싱글리스트",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TdFdWTk5wdUFfMjQySEt4VGNKMEo0OUUzZUIwTmhrQVA3Z1E5R3MzZ1NhMllmbVRHdDBtejFGU3VYTGF3S3k0SlBXODhvdUwyYVgtZGU3YlNOYXl0MUpESUtBUm1uQQ?oc=5",
+     "direct": false
+    },
+    {
+     "name": "한국경제",
+     "url": "https://www.hankyung.com/article/202611029080P",
+     "direct": true
+    }
+   ],
+   "first_seen": "2026-11-03",
+   "sent_on": "",
+   "published": "2026-11-01T23:39:11+00:00",
+   "lookup_done": true
+  }
+ ],
+ "last_period": "",
+ "failing_since": {},
+ "last_try": {},
+ "alerted_on": "",
+ "last_news_at": "2026-11-03T02:00:28.832051+09:00",
+ "llm_checked": []
+}
