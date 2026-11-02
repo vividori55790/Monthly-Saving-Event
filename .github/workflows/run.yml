@@ -3,7 +3,7 @@ name: 행사 수집 및 메일 전송
 on:
   schedule:
     # 정각의 혼잡을 피해 약 15분마다 실행합니다.
-    - cron: "7,22,37,52 * * * *"
+    - cron: "2,17,32,47 * * * *"
   push:
     branches: [main]
     paths: ["saving_events/**", "config.toml", ".github/workflows/run.yml"]
