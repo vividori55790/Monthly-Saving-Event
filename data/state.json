@@ -135,12 +135,49 @@
    "sent_on": "",
    "published": "2026-11-02T00:03:00+00:00",
    "lookup_done": true
+  },
+  {
+   "brand_group": "이마트24",
+   "rate": 50.0,
+   "kind": "할인",
+   "title": "CJ ONE, 11월 ‘원더위크’ 개최… CJ더마켓 14,000원 할인 쿠폰에 이마트24 도시락 반값 할인 – CJ 뉴스룸",
+   "cap": "",
+   "period": "",
+   "ends": "",
+   "tokens": [
+    "cj",
+    "cj더마켓",
+    "one",
+    "개최",
+    "뉴스룸",
+    "도시락",
+    "반값",
+    "원더위크",
+    "이마트24",
+    "쿠폰에"
+   ],
+   "sources": [
+    {
+     "name": "CJ 뉴스룸",
+     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQdHVJUWI1QTJuZXZSUzNLcTBqVTlJMnZWT2pZRXc4dExxcEdsZ08xcXotT05zWTdFWS1NQ1NBNkhHNFpyTWhuM3NUaUJLQ3FWMjJuOTl5THpQZ0h5d1NLVHhOd0NTaWtrbFdGLWgzbTBPN3ctZ3dVNXVwT2cxRlptS2dhYjFiQ1BKSEhYcjFWQ0hmaV9zSjlFbnZ4LXVPeDBNYXptNEhRWWxwU2s0RWtwMTUwWDRxdlA1NGdMMDF1QjVsd0t4ZkZ5X1R3M056cUtUM1pSZ1hkRVdyOTBxSy1MU0FudFZ5M3AwTU9FVE10YWZoajFqUk9SbFJTMDNvZ0ZzbG9NNW9zbVlFUVVscEo3R3k3b3BrX3Rf?oc=5",
+     "direct": false
+    },
+    {
+     "name": "전자신문 on MSN",
+     "url": "https://www.msn.com/ko-kr/news/other/cj-one-cj%EB%8D%94%EB%A7%88%EC%BC%93%EA%B3%BC-11%EC%9B%94-%EC%9B%90%EB%8D%94%EC%9C%84%ED%81%AC-%EC%A7%84%ED%96%89-%EC%B5%9C%EB%8C%80-1%EB%A7%8C4000%EC%9B%90-%EC%BF%A0%ED%8F%B0-%EC%A0%9C%EA%B3%B5/ar-AA2gCXTw",
+     "direct": true
+    }
+   ],
+   "first_seen": "2026-11-03",
+   "sent_on": "",
+   "published": "2026-11-03T02:32:23+00:00",
+   "lookup_done": true
   }
  ],
  "last_period": "",
  "failing_since": {},
  "last_try": {},
  "alerted_on": "",
- "last_news_at": "2026-11-03T10:28:04.196709+09:00",
+ "last_news_at": "2026-11-03T17:21:45.392402+09:00",
  "llm_checked": []
 }
