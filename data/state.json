@@ -100,12 +100,47 @@
    "sent_on": "",
    "published": "2026-11-01T23:39:11+00:00",
    "lookup_done": true
+  },
+  {
+   "brand_group": "GS25",
+   "rate": 50.0,
+   "kind": "할인",
+   "title": "연중 최고 매출 온다…GS25, 빼빼로데이 맞아 반값 할인 행사",
+   "cap": "",
+   "period": "",
+   "ends": "",
+   "tokens": [
+    "gs25",
+    "맞아",
+    "매출",
+    "반값",
+    "빼빼로데이",
+    "연중",
+    "온다",
+    "최고"
+   ],
+   "sources": [
+    {
+     "name": "아시아경제",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQUhzVVJyVU5TY2t5bWFsRHhSV0cydkRFaVRCX2NsRUUweGo4YTZOVGVTenR4QkdvTlBPUVlNSFEzd09EMjVrQ1pzU0x5T1hVU0Vfcm1NVUNzQUwyTnlMWnBZYUpoVUZjMFA5elBkWVEzdkZEYkhFMjlZc042ckJmbUJ3?oc=5",
+     "direct": false
+    },
+    {
+     "name": "아시아경제 on MSN",
+     "url": "https://www.msn.com/ko-kr/news/other/%EC%97%B0%EC%A4%91-%EC%B5%9C%EA%B3%A0-%EB%A7%A4%EC%B6%9C-%EC%98%A8%EB%8B%A4-gs25-%EB%B9%BC%EB%B9%BC%EB%A1%9C%EB%8D%B0%EC%9D%B4-%EB%A7%9E%EC%95%84-%EB%B0%98%EA%B0%92-%ED%95%A0%EC%9D%B8-%ED%96%89%EC%82%AC/ar-AA2gy8VG",
+     "direct": true
+    }
+   ],
+   "first_seen": "2026-11-03",
+   "sent_on": "",
+   "published": "2026-11-02T00:03:00+00:00",
+   "lookup_done": true
   }
  ],
  "last_period": "",
  "failing_since": {},
  "last_try": {},
  "alerted_on": "",
- "last_news_at": "2026-11-03T02:00:28.832051+09:00",
+ "last_news_at": "2026-11-03T10:28:04.196709+09:00",
  "llm_checked": []
 }
