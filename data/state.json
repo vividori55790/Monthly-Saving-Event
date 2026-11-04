@@ -148,12 +148,14 @@
     "cj",
     "cj더마켓",
     "one",
+    "간편식",
     "개최",
     "뉴스룸",
     "도시락",
     "반값",
     "원더위크",
     "이마트24",
+    "쿠폰",
     "쿠폰에"
    ],
    "sources": [
@@ -166,6 +168,11 @@
      "name": "전자신문 on MSN",
      "url": "https://www.msn.com/ko-kr/news/other/cj-one-cj%EB%8D%94%EB%A7%88%EC%BC%93%EA%B3%BC-11%EC%9B%94-%EC%9B%90%EB%8D%94%EC%9C%84%ED%81%AC-%EC%A7%84%ED%96%89-%EC%B5%9C%EB%8C%80-1%EB%A7%8C4000%EC%9B%90-%EC%BF%A0%ED%8F%B0-%EC%A0%9C%EA%B3%B5/ar-AA2gCXTw",
      "direct": true
+    },
+    {
+     "name": "더퍼스트미디어",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZYkM0aHlNY05LTmVoZkswLXBGUFEyVHg1MHl3Y3FuMUhSZFoxX0xSbTZOVERwY3p4alZEWXp1cWduY1dxWU9tVDRoVUVGeFpsckNVcHJmQzJSMjh4UVlsOXVNUGFfa1lkV1A5dU9pRjZySGtO0gF0QVVfeXFMUFliQzRoeU1jTktOZWhmSzAtcEZQUTJUeDUweXdjcW4xSFJkWjFfTFJtNk5URHBjenhqVkRZenVxZ25jV3FZT21UNGhVRUZ4WmxyQ1VwcmZDMlIyOHhRWWw5dU1QYV9rWWRXUDl1T2lGNnJIa04?oc=5",
+     "direct": false
     }
    ],
    "first_seen": "2026-11-03",
@@ -175,13 +182,9 @@
   }
  ],
  "last_period": "",
- "failing_since": {
-  "Bing 뉴스": "2026-11-04T10:53:36.544712+09:00"
- },
- "last_try": {
-  "Bing 뉴스": "2026-11-04T10:53:36.544712+09:00"
- },
+ "failing_since": {},
+ "last_try": {},
  "alerted_on": "",
- "last_news_at": "2026-11-04T10:53:36.544712+09:00",
+ "last_news_at": "2026-11-04T17:38:10.001580+09:00",
  "llm_checked": []
 }
