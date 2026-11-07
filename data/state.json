@@ -179,16 +179,44 @@
    "sent_on": "",
    "published": "2026-11-03T02:32:23+00:00",
    "lookup_done": true
+  },
+  {
+   "brand_group": "세븐일레븐",
+   "rate": 50.0,
+   "kind": "할인",
+   "title": "세븐일레븐, 차별화 동절기 간식 선봬...최대 50% 할인",
+   "cap": "",
+   "period": "",
+   "ends": "",
+   "tokens": [
+    "간식",
+    "동절기",
+    "선봬",
+    "세븐일레븐",
+    "차별화"
+   ],
+   "sources": [
+    {
+     "name": "싱글리스트",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HQVl6eUdTY1RxeFkwUURkVk50RmlVWFZsNVBMaEoxeklSSGNmRm5VTDlJaGxEcmxuekNrZldVemZTZzdOSnRXMHJnelJWNlV5NjVMc1psVW56dVliTng2cDNnX2JYZw?oc=5",
+     "direct": false
+    },
+    {
+     "name": "싱글리스트 on MSN",
+     "url": "https://www.msn.com/ko-kr/%EC%9D%8C%EC%8B%9D-%EB%B0%8F-%EC%9D%8C%EB%A3%8C/%EB%A0%88%EC%8B%9C%ED%94%BC/%EC%84%B8%EB%B8%90%EC%9D%BC%EB%A0%88%EB%B8%90-%EC%B0%A8%EB%B3%84%ED%99%94-%EB%8F%99%EC%A0%88%EA%B8%B0-%EA%B0%84%EC%8B%9D-%EC%84%A0%EB%B4%AC-%EC%B5%9C%EB%8C%80-50-%ED%95%A0%EC%9D%B8/ar-AA2gM4on",
+     "direct": true
+    }
+   ],
+   "first_seen": "2026-11-08",
+   "sent_on": "",
+   "published": "2026-11-04T22:07:58+00:00",
+   "lookup_done": true
   }
  ],
  "last_period": "",
- "failing_since": {
-  "Bing 뉴스": "2026-11-07T18:02:36.875471+09:00"
- },
- "last_try": {
-  "Bing 뉴스": "2026-11-07T18:02:36.875471+09:00"
- },
+ "failing_since": {},
+ "last_try": {},
  "alerted_on": "",
- "last_news_at": "2026-11-07T18:02:36.875471+09:00",
+ "last_news_at": "2026-11-08T00:39:50.216279+09:00",
  "llm_checked": []
 }
