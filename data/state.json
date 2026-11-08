@@ -211,12 +211,42 @@
    "sent_on": "",
    "published": "2026-11-04T22:07:58+00:00",
    "lookup_done": true
+  },
+  {
+   "brand_group": "네이버페이",
+   "rate": 50.0,
+   "kind": "할인",
+   "title": "[던킨도너츠] 네이버페이 결제시 두바이 도넛 4종 50% 할인 (11/9~30)",
+   "cap": "",
+   "period": "11/9~30",
+   "ends": "2026-11-30",
+   "tokens": [
+    "4종",
+    "던킨도너츠",
+    "도넛",
+    "두바이"
+   ],
+   "sources": [
+    {
+     "name": "루리웹 핫딜",
+     "url": "https://bbs.ruliweb.com/market/board/1020/read/108844",
+     "direct": true
+    }
+   ],
+   "first_seen": "2026-11-09",
+   "sent_on": "",
+   "published": "2026-11-09T00:26:48+09:00",
+   "lookup_done": false
   }
  ],
  "last_period": "",
- "failing_since": {},
- "last_try": {},
+ "failing_since": {
+  "Bing 뉴스": "2026-11-09T01:10:03.312396+09:00"
+ },
+ "last_try": {
+  "Bing 뉴스": "2026-11-09T01:10:03.312396+09:00"
+ },
  "alerted_on": "",
- "last_news_at": "2026-11-08T18:23:30.603950+09:00",
+ "last_news_at": "2026-11-09T01:10:03.312396+09:00",
  "llm_checked": []
 }
