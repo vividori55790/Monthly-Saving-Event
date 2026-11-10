@@ -237,12 +237,61 @@
    "sent_on": "",
    "published": "2026-11-09T00:26:48+09:00",
    "lookup_done": false
+  },
+  {
+   "brand_group": "네이버페이",
+   "rate": 50.0,
+   "kind": "할인",
+   "title": "이번주 금요일 뚜레쥬르 네이버페이 50% 할인",
+   "cap": "",
+   "period": "",
+   "ends": "",
+   "tokens": [
+    "금요일",
+    "뚜레쥬르",
+    "이번주"
+   ],
+   "sources": [
+    {
+     "name": "뽐뿌 재테크포럼",
+     "url": "http://www.ppomppu.co.kr/zboard/view.php?id=money&no=549564",
+     "direct": true
+    }
+   ],
+   "first_seen": "2026-11-10",
+   "sent_on": "",
+   "published": "2026-11-10T07:19:18+00:00",
+   "lookup_done": false
+  },
+  {
+   "brand_group": "네이버페이",
+   "rate": 40.0,
+   "kind": "할인",
+   "title": "[파스쿠찌] 네이버페이 1만원 이상 결제시 40% 할인 (11/11~15)",
+   "cap": "",
+   "period": "11/11~15",
+   "ends": "2026-11-15",
+   "tokens": [
+    "이상",
+    "파스쿠찌"
+   ],
+   "sources": [
+    {
+     "name": "루리웹 핫딜",
+     "url": "https://bbs.ruliweb.com/market/board/1020/read/108905",
+     "direct": true
+    }
+   ],
+   "first_seen": "2026-11-10",
+   "sent_on": "",
+   "published": "2026-11-10T19:45:34+09:00",
+   "lookup_done": false
   }
  ],
  "last_period": "",
  "failing_since": {},
  "last_try": {},
  "alerted_on": "",
- "last_news_at": "2026-11-10T08:05:56.825946+09:00",
+ "last_news_at": "2026-11-10T22:00:05.945951+09:00",
  "llm_checked": []
 }
