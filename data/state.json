@@ -286,12 +286,42 @@
    "sent_on": "",
    "published": "2026-11-10T19:45:34+09:00",
    "lookup_done": false
+  },
+  {
+   "brand_group": "네이버페이",
+   "rate": 50.0,
+   "kind": "적립",
+   "title": "[설빙]네이버페이 9900원 이상 결제 50%적립+포켓몬 콜라보(11/12~15)",
+   "cap": "",
+   "period": "11/12~15",
+   "ends": "2026-11-15",
+   "tokens": [
+    "설빙",
+    "이상",
+    "콜라보",
+    "포켓몬"
+   ],
+   "sources": [
+    {
+     "name": "루리웹 핫딜",
+     "url": "https://bbs.ruliweb.com/market/board/1020/read/108946",
+     "direct": true
+    }
+   ],
+   "first_seen": "2026-11-12",
+   "sent_on": "",
+   "published": "2026-11-11T17:01:06+09:00",
+   "lookup_done": false
   }
  ],
  "last_period": "",
- "failing_since": {},
- "last_try": {},
+ "failing_since": {
+  "Bing 뉴스": "2026-11-12T00:16:16.626695+09:00"
+ },
+ "last_try": {
+  "Bing 뉴스": "2026-11-12T00:16:16.626695+09:00"
+ },
  "alerted_on": "",
- "last_news_at": "2026-11-11T16:14:29.748953+09:00",
+ "last_news_at": "2026-11-12T00:16:16.626695+09:00",
  "llm_checked": []
 }
