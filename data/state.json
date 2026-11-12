@@ -249,12 +249,19 @@
    "tokens": [
     "금요일",
     "뚜레쥬르",
-    "이번주"
+    "이번주",
+    "이상",
+    "페이백"
    ],
    "sources": [
     {
      "name": "뽐뿌 재테크포럼",
      "url": "http://www.ppomppu.co.kr/zboard/view.php?id=money&no=549564",
+     "direct": true
+    },
+    {
+     "name": "루리웹 핫딜",
+     "url": "https://bbs.ruliweb.com/market/board/1020/read/108970",
      "direct": true
     }
    ],
@@ -312,12 +319,35 @@
    "sent_on": "",
    "published": "2026-11-11T17:01:06+09:00",
    "lookup_done": false
+  },
+  {
+   "brand_group": "네이버페이",
+   "rate": 30.0,
+   "kind": "할인",
+   "title": "[쉐이크쉑] 네이버페이 결제시 30% 할인 (11/12~15)",
+   "cap": "",
+   "period": "11/12~15",
+   "ends": "2026-11-15",
+   "tokens": [
+    "쉐이크쉑"
+   ],
+   "sources": [
+    {
+     "name": "루리웹 핫딜",
+     "url": "https://bbs.ruliweb.com/market/board/1020/read/108971",
+     "direct": true
+    }
+   ],
+   "first_seen": "2026-11-12",
+   "sent_on": "",
+   "published": "2026-11-12T12:27:30+09:00",
+   "lookup_done": false
   }
  ],
  "last_period": "",
  "failing_since": {},
  "last_try": {},
  "alerted_on": "",
- "last_news_at": "2026-11-12T07:00:03.892793+09:00",
+ "last_news_at": "2026-11-12T19:39:19.429846+09:00",
  "llm_checked": []
 }
