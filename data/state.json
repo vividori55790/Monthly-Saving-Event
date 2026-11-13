@@ -303,16 +303,30 @@
    "period": "11/12~15",
    "ends": "2026-11-15",
    "tokens": [
+    "6종",
+    "라이트",
     "설빙",
     "이상",
+    "출시",
     "콜라보",
-    "포켓몬"
+    "포켓몬",
+    "피규어"
    ],
    "sources": [
     {
      "name": "루리웹 핫딜",
      "url": "https://bbs.ruliweb.com/market/board/1020/read/108946",
      "direct": true
+    },
+    {
+     "name": "금강일보",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1193008",
+     "direct": true
+    },
+    {
+     "name": "금강일보",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qdjdSOW5CVTRmVk85dmpVTF9EWkRpT0hhZlZTUW9FX25iYTdhS0hBdDAzU0U0OHRxMmdPbWU1d1YxRjd2TThyV1cydXBOYTB3bHZkZ1gyakk4OGhiYTI0ZzVJQWd2Z3Rqenc?oc=5",
+     "direct": false
     }
    ],
    "first_seen": "2026-11-12",
@@ -348,6 +362,6 @@
  "failing_since": {},
  "last_try": {},
  "alerted_on": "",
- "last_news_at": "2026-11-13T03:36:56.580544+09:00",
+ "last_news_at": "2026-11-13T14:08:04.088957+09:00",
  "llm_checked": []
 }
