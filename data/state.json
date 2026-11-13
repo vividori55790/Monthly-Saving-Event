@@ -356,12 +356,36 @@
    "sent_on": "",
    "published": "2026-11-12T12:27:30+09:00",
    "lookup_done": false
+  },
+  {
+   "brand_group": "네이버페이",
+   "rate": 40.0,
+   "kind": "할인",
+   "title": "[던킨도너츠] 네이버페이로 12000원 결제시 4800원 할인 외 (11/14)",
+   "cap": "",
+   "period": "",
+   "ends": "",
+   "tokens": [
+    "네이버페이로",
+    "던킨도너츠"
+   ],
+   "sources": [
+    {
+     "name": "루리웹 핫딜",
+     "url": "https://bbs.ruliweb.com/market/board/1020/read/109018",
+     "direct": true
+    }
+   ],
+   "first_seen": "2026-11-14",
+   "sent_on": "",
+   "published": "2026-11-14T00:06:11+09:00",
+   "lookup_done": false
   }
  ],
  "last_period": "",
  "failing_since": {},
  "last_try": {},
  "alerted_on": "",
- "last_news_at": "2026-11-13T22:06:26.555292+09:00",
+ "last_news_at": "2026-11-14T05:28:58.837826+09:00",
  "llm_checked": []
 }
