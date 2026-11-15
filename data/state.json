@@ -244,11 +244,13 @@
    "kind": "할인",
    "title": "이번주 금요일 뚜레쥬르 네이버페이 50% 할인",
    "cap": "",
-   "period": "",
-   "ends": "",
+   "period": "11/16~30",
+   "ends": "2026-11-30",
    "tokens": [
+    "5천원",
     "금요일",
     "뚜레쥬르",
+    "빽다방",
     "이번주",
     "이상",
     "페이백"
@@ -263,98 +265,16 @@
      "name": "루리웹 핫딜",
      "url": "https://bbs.ruliweb.com/market/board/1020/read/108970",
      "direct": true
+    },
+    {
+     "name": "루리웹 핫딜",
+     "url": "https://bbs.ruliweb.com/market/board/1020/read/109045",
+     "direct": true
     }
    ],
    "first_seen": "2026-11-10",
    "sent_on": "",
    "published": "2026-11-10T07:19:18+00:00",
-   "lookup_done": false
-  },
-  {
-   "brand_group": "네이버페이",
-   "rate": 40.0,
-   "kind": "할인",
-   "title": "[파스쿠찌] 네이버페이 1만원 이상 결제시 40% 할인 (11/11~15)",
-   "cap": "",
-   "period": "11/11~15",
-   "ends": "2026-11-15",
-   "tokens": [
-    "이상",
-    "파스쿠찌"
-   ],
-   "sources": [
-    {
-     "name": "루리웹 핫딜",
-     "url": "https://bbs.ruliweb.com/market/board/1020/read/108905",
-     "direct": true
-    }
-   ],
-   "first_seen": "2026-11-10",
-   "sent_on": "",
-   "published": "2026-11-10T19:45:34+09:00",
-   "lookup_done": false
-  },
-  {
-   "brand_group": "네이버페이",
-   "rate": 50.0,
-   "kind": "적립",
-   "title": "[설빙]네이버페이 9900원 이상 결제 50%적립+포켓몬 콜라보(11/12~15)",
-   "cap": "",
-   "period": "11/12~15",
-   "ends": "2026-11-15",
-   "tokens": [
-    "6종",
-    "라이트",
-    "설빙",
-    "이상",
-    "출시",
-    "콜라보",
-    "포켓몬",
-    "피규어"
-   ],
-   "sources": [
-    {
-     "name": "루리웹 핫딜",
-     "url": "https://bbs.ruliweb.com/market/board/1020/read/108946",
-     "direct": true
-    },
-    {
-     "name": "금강일보",
-     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1193008",
-     "direct": true
-    },
-    {
-     "name": "금강일보",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qdjdSOW5CVTRmVk85dmpVTF9EWkRpT0hhZlZTUW9FX25iYTdhS0hBdDAzU0U0OHRxMmdPbWU1d1YxRjd2TThyV1cydXBOYTB3bHZkZ1gyakk4OGhiYTI0ZzVJQWd2Z3Rqenc?oc=5",
-     "direct": false
-    }
-   ],
-   "first_seen": "2026-11-12",
-   "sent_on": "",
-   "published": "2026-11-11T17:01:06+09:00",
-   "lookup_done": false
-  },
-  {
-   "brand_group": "네이버페이",
-   "rate": 30.0,
-   "kind": "할인",
-   "title": "[쉐이크쉑] 네이버페이 결제시 30% 할인 (11/12~15)",
-   "cap": "",
-   "period": "11/12~15",
-   "ends": "2026-11-15",
-   "tokens": [
-    "쉐이크쉑"
-   ],
-   "sources": [
-    {
-     "name": "루리웹 핫딜",
-     "url": "https://bbs.ruliweb.com/market/board/1020/read/108971",
-     "direct": true
-    }
-   ],
-   "first_seen": "2026-11-12",
-   "sent_on": "",
-   "published": "2026-11-12T12:27:30+09:00",
    "lookup_done": false
   },
   {
@@ -383,13 +303,9 @@
   }
  ],
  "last_period": "",
- "failing_since": {
-  "루리웹 핫딜": "2026-11-15T18:56:10.688977+09:00"
- },
- "last_try": {
-  "루리웹 핫딜": "2026-11-15T18:56:10.688977+09:00"
- },
+ "failing_since": {},
+ "last_try": {},
  "alerted_on": "",
- "last_news_at": "2026-11-15T18:56:10.688977+09:00",
+ "last_news_at": "2026-11-16T01:48:31.383617+09:00",
  "llm_checked": []
 }
