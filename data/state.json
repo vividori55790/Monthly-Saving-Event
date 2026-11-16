@@ -300,16 +300,45 @@
    "sent_on": "",
    "published": "2026-11-14T00:06:11+09:00",
    "lookup_done": false
+  },
+  {
+   "brand_group": "네이버페이",
+   "rate": 50.0,
+   "kind": "적립",
+   "title": "설빙, 포켓몬 라이트 피규어 6종 출시... 네이버페이 결제 시 50% 포인트 적립",
+   "cap": "",
+   "period": "",
+   "ends": "",
+   "tokens": [
+    "6종",
+    "라이트",
+    "설빙",
+    "출시",
+    "포켓몬",
+    "피규어"
+   ],
+   "sources": [
+    {
+     "name": "금강일보",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1193008",
+     "direct": true
+    },
+    {
+     "name": "금강일보",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XOVJOdTJMSEtFYmdfZy1GYkx5SEpzWHNPNUhlQjFFeF9WdXNROVZnbW15STh1UE9NakZNbElpV1hPVUUtMFNSTTZ1c1lEdm9tUVBZVU9jWmw3eDZ1dXZyRVVxUVBzV2p0?oc=5",
+     "direct": false
+    }
+   ],
+   "first_seen": "2026-11-16",
+   "sent_on": "",
+   "published": "2026-11-13T05:40:00+00:00",
+   "lookup_done": false
   }
  ],
  "last_period": "",
- "failing_since": {
-  "루리웹 핫딜": "2026-11-16T06:28:45.134109+09:00"
- },
- "last_try": {
-  "루리웹 핫딜": "2026-11-16T06:28:45.134109+09:00"
- },
+ "failing_since": {},
+ "last_try": {},
  "alerted_on": "",
- "last_news_at": "2026-11-16T01:48:31.383617+09:00",
+ "last_news_at": "2026-11-16T10:18:29.537741+09:00",
  "llm_checked": []
 }
