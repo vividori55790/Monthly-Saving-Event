@@ -336,13 +336,9 @@
   }
  ],
  "last_period": "",
- "failing_since": {
-  "Google 뉴스": "2026-11-17T11:07:53.395733+09:00"
- },
- "last_try": {
-  "Google 뉴스": "2026-11-17T11:07:53.395733+09:00"
- },
+ "failing_since": {},
+ "last_try": {},
  "alerted_on": "",
- "last_news_at": "2026-11-17T11:07:53.395733+09:00",
+ "last_news_at": "2026-11-17T19:42:38.053760+09:00",
  "llm_checked": []
 }
