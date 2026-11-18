@@ -327,6 +327,11 @@
      "name": "금강일보",
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XOVJOdTJMSEtFYmdfZy1GYkx5SEpzWHNPNUhlQjFFeF9WdXNROVZnbW15STh1UE9NakZNbElpV1hPVUUtMFNSTTZ1c1lEdm9tUVBZVU9jWmw3eDZ1dXZyRVVxUVBzV2p0?oc=5",
      "direct": false
+    },
+    {
+     "name": "금강일보",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qdjdSOW5CVTRmVk85dmpVTF9EWkRpT0hhZlZTUW9FX25iYTdhS0hBdDAzU0U0OHRxMmdPbWU1d1YxRjd2TThyV1cydXBOYTB3bHZkZ1gyakk4OGhiYTI0ZzVJQWd2Z3Rqenc?oc=5",
+     "direct": false
     }
    ],
    "first_seen": "2026-11-16",
@@ -336,13 +341,9 @@
   }
  ],
  "last_period": "",
- "failing_since": {
-  "루리웹 핫딜": "2026-11-18T04:25:16.388363+09:00"
- },
- "last_try": {
-  "루리웹 핫딜": "2026-11-18T04:25:16.388363+09:00"
- },
+ "failing_since": {},
+ "last_try": {},
  "alerted_on": "",
- "last_news_at": "2026-11-18T04:25:16.388363+09:00",
+ "last_news_at": "2026-11-18T10:46:56.636758+09:00",
  "llm_checked": []
 }
