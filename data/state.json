@@ -13,6 +13,7 @@
     "dubai",
     "st",
     "twogether",
+    "네이버페이로",
     "던킨",
     "반값",
     "신제품",
@@ -27,6 +28,11 @@
     {
      "name": "위키트리 on MSN",
      "url": "https://www.msn.com/ko-kr/%EC%9D%8C%EC%8B%9D-%EB%B0%8F-%EC%9D%8C%EB%A3%8C/%EC%9D%BC%EB%B0%98/%EB%8D%98%ED%82%A8-%EB%91%90%EB%B0%94%EC%9D%B4-%EC%B4%88%EC%BD%9C%EB%A6%BF-%EB%8F%84%EB%84%9B-%EC%B6%9C%EC%8B%9C-2%EB%85%84-%EB%A7%8C%EC%97%90-300%EB%A7%8C-%EA%B0%9C-%EB%8F%8C%ED%8C%8C-%EC%8B%A0%EC%A0%9C%ED%92%88-2%EC%A2%85-%EC%B6%94%EA%B0%80/ar-AA2gypVW",
+     "direct": true
+    },
+    {
+     "name": "뽐뿌 재테크포럼",
+     "url": "http://www.ppomppu.co.kr/zboard/view.php?id=money&no=549835",
      "direct": true
     }
    ],
@@ -349,6 +355,6 @@
  "failing_since": {},
  "last_try": {},
  "alerted_on": "",
- "last_news_at": "2026-11-21T05:55:11.132641+09:00",
+ "last_news_at": "2026-11-21T18:19:32.481518+09:00",
  "llm_checked": []
 }
