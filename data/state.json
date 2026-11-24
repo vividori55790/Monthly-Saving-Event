@@ -262,6 +262,7 @@
     "금요일",
     "뚜레쥬르",
     "빽다방",
+    "설빙",
     "이번주",
     "이상",
     "페이백"
@@ -280,6 +281,11 @@
     {
      "name": "루리웹 핫딜",
      "url": "https://bbs.ruliweb.com/market/board/1020/read/109045",
+     "direct": true
+    },
+    {
+     "name": "루리웹 핫딜",
+     "url": "https://bbs.ruliweb.com/market/board/1020/read/109337",
      "direct": true
     }
    ],
@@ -372,12 +378,41 @@
    "sent_on": "",
    "published": "2026-11-24T00:26:01+09:00",
    "lookup_done": false
+  },
+  {
+   "brand_group": "편의점",
+   "rate": 50.0,
+   "kind": "할인",
+   "title": "편의점 '마감할인' 앱 켰더니… 점심값 반값 아끼는 직장인 짠테크",
+   "cap": "",
+   "period": "",
+   "ends": "",
+   "tokens": [
+    "마감할인",
+    "반값",
+    "아끼는",
+    "점심값",
+    "직장인",
+    "짠테크",
+    "켰더니"
+   ],
+   "sources": [
+    {
+     "name": "케이트렌디뉴스",
+     "url": "http://www.k-trendynews.com/news/articleView.html?idxno=207210",
+     "direct": true
+    }
+   ],
+   "first_seen": "2026-11-24",
+   "sent_on": "",
+   "published": "2026-11-23T18:04:00+00:00",
+   "lookup_done": false
   }
  ],
  "last_period": "",
  "failing_since": {},
  "last_try": {},
  "alerted_on": "",
- "last_news_at": "2026-11-24T09:22:57.260567+09:00",
+ "last_news_at": "2026-11-24T19:14:25.583661+09:00",
  "llm_checked": []
 }
