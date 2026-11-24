@@ -349,18 +349,35 @@
    "sent_on": "",
    "published": "2026-11-13T05:40:00+00:00",
    "lookup_done": false
+  },
+  {
+   "brand_group": "네이버페이",
+   "rate": 40.0,
+   "kind": "할인",
+   "title": "[쉐이크쉑] 네이버페이 결제시 40% 할인 (11/24~29)",
+   "cap": "",
+   "period": "11/24~29",
+   "ends": "2026-11-29",
+   "tokens": [
+    "쉐이크쉑"
+   ],
+   "sources": [
+    {
+     "name": "루리웹 핫딜",
+     "url": "https://bbs.ruliweb.com/market/board/1020/read/109318",
+     "direct": true
+    }
+   ],
+   "first_seen": "2026-11-24",
+   "sent_on": "",
+   "published": "2026-11-24T00:26:01+09:00",
+   "lookup_done": false
   }
  ],
  "last_period": "",
- "failing_since": {
-  "루리웹 핫딜": "2026-11-23T07:40:40.748532+09:00",
-  "Google 뉴스": "2026-11-23T21:37:03.874204+09:00"
- },
- "last_try": {
-  "Google 뉴스": "2026-11-23T21:37:03.874204+09:00",
-  "루리웹 핫딜": "2026-11-23T21:37:03.874204+09:00"
- },
+ "failing_since": {},
+ "last_try": {},
  "alerted_on": "",
- "last_news_at": "2026-11-23T21:37:03.874204+09:00",
+ "last_news_at": "2026-11-24T09:22:57.260567+09:00",
  "llm_checked": []
 }
