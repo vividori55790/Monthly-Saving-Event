@@ -401,6 +401,11 @@
      "name": "케이트렌디뉴스",
      "url": "http://www.k-trendynews.com/news/articleView.html?idxno=207210",
      "direct": true
+    },
+    {
+     "name": "케이트렌디뉴스",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIWU9WU3ZBUlIwWkdPV0UyRzVjZ21sRnJETGRIZnFQMXVDZ1Z1REY1V0phdk9WNnpzaGgtSEZkSHJqYU9SWDN1RS1QV29Xa1dpNnVLdWhDTlhZQzhWX3lPcnFwUlMxQWxMWVhBNkp4UXg?oc=5",
+     "direct": false
     }
    ],
    "first_seen": "2026-11-24",
@@ -413,6 +418,6 @@
  "failing_since": {},
  "last_try": {},
  "alerted_on": "",
- "last_news_at": "2026-11-24T19:14:25.583661+09:00",
+ "last_news_at": "2026-11-25T05:40:33.323274+09:00",
  "llm_checked": []
 }
