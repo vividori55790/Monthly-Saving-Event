@@ -260,6 +260,7 @@
    "tokens": [
     "5천원",
     "금요일",
+    "더벤티",
     "뚜레쥬르",
     "빽다방",
     "설빙",
@@ -286,6 +287,11 @@
     {
      "name": "루리웹 핫딜",
      "url": "https://bbs.ruliweb.com/market/board/1020/read/109337",
+     "direct": true
+    },
+    {
+     "name": "루리웹 핫딜",
+     "url": "https://bbs.ruliweb.com/market/board/1020/read/109362",
      "direct": true
     }
    ],
@@ -418,6 +424,6 @@
  "failing_since": {},
  "last_try": {},
  "alerted_on": "",
- "last_news_at": "2026-11-25T05:40:33.323274+09:00",
+ "last_news_at": "2026-11-25T12:45:16.581353+09:00",
  "llm_checked": []
 }
